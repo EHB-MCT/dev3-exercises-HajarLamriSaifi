@@ -1,5 +1,7 @@
 val gameWeapon = arrayOf("rock", "paper", "scissors")
+val randomWeapon = gameWeapon.random()
 
 fun main (){
-    println()
+    val gameWeapon = arrayOf("rock", "paper", "scissors")
+    val randomWeapon = gameWeapon.random()
 }
