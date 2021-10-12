@@ -21,14 +21,18 @@ fun challengeOne(){
 fun challengeTwo(){
     val userGeuss = readLine()
     val diceResult = (1..6)random()
+    val lowResult = (1-3)
+    val highResult = (4-6)
 
-    //TODO: check  == problem for strings
-    if (diceResult >= 4){
-        winner()
+    if (userGeuss == lowResult){
+        
+    } if (userGeuss == highResult){
+
     }
     else{
-        gameover()
+        println("gameover")
     }
 }
 
-fun winner()
+
+
