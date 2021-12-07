@@ -2,23 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16c916a1-da74-4222-9b04-f5269d6bd1f1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/session3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../session7/duo/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../session7/duo/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../session7/duo/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../session7/duo/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../session7/duo/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../session7/duo/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../session7/duo/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../session7/duo/duo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../session7/duo/gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../session7/duo/src/main/kotlin/Duolingo.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../session7/duo/src/main/kotlin/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../session7/duo/src/main/kotlin/Word.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../session7/duolingo/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session6/transport/.idea/libraries/mysql_connector_java_8_0_27.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../session6/transport/.idea/libraries/mysql_connector_java_8_0_27.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session6/transport/out/production/transport/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../session6/transport/out/production/transport/MainKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session6/transport/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../session6/transport/src/main/kotlin/main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../geekytravel/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../geekytravel/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../geekytravel/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../geekytravel/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../geekytravel/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../geekytravel/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../geekytravel/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,5 +51,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
